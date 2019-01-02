@@ -1,0 +1,17 @@
+2018-12-26 17:46:42,738 user_log.py --> <module> 10: DEBUG ---->test112345
+2018-12-26 17:47:05,957 user_log.py --> <module> 10: DEBUG ---->test112345
+2018-12-26 17:48:46,479 user_log.py --> <module> 10: DEBUG ---->test112345
+2018-12-26 17:50:28,056 user_log.py --> <module> 10: DEBUG ---->test112345
+2018-12-26 18:16:31,232 user_log.py --> __init__ 10: DEBUG ---->test112345
+2018-12-26 18:18:06,313 user_log.py --> __init__ 10: DEBUG ---->test112345
+2018-12-26 18:18:10,859 user_log.py --> __init__ 10: DEBUG ---->test112345
+2018-12-26 18:27:07,668 user_log.py --> __init__ 10: DEBUG ---->test112345
+2018-12-26 18:27:07,668 user_log.py --> <module> 10: DEBUG ---->1234
+2018-12-26 18:27:12,990 user_log.py --> __init__ 10: DEBUG ---->test112345
+2018-12-26 18:27:12,990 user_log.py --> <module> 10: DEBUG ---->1234
+2018-12-26 18:28:32,815 user_log.py --> __init__ 10: DEBUG ---->test112345
+2018-12-26 18:28:33,369 remote_connection.py --> _request 10: DEBUG ---->POST http://127.0.0.1:49244/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+2018-12-26 18:28:33,370 connectionpool.py --> _new_conn 10: DEBUG ---->Starting new HTTP connection (1): 127.0.0.1:49244
+2018-12-26 18:28:35,153 connectionpool.py --> _make_request 10: DEBUG ---->http://127.0.0.1:49244 "POST /session HTTP/1.1" 200 891
+2018-12-26 18:28:35,154 remote_connection.py --> _request 10: DEBUG ---->Finished Request
+2018-12-26 18:28:35,154 remote_connection.py --> _request 10: DEBUG ---->POST http://127.0.0.1:49244/session/0e164ce05ded9f2113c0bda5bb461018/url {"url": "http://www.5itest.cn/register", "sessionId": "0e164ce05ded9f2113c0bda5bb461018"}

@@ -1,0 +1,7 @@
+1541410321262	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.xdK6pEr6bNmp"
+1541410323679	Marionette	INFO	Listening on port 59501
+1541410324069	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541410324097	Marionette	DEBUG	[6442450945] Frame script loaded
+1541410324099	Marionette	DEBUG	[6442450945] Frame script registered
+1541410324121	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1541410324423	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
